@@ -1,0 +1,50 @@
+﻿  Renderer.cpp
+c:\users\mcraisins\source\repos\cs6323_project\Shader.h(51): warning C4101: 'info_log': unreferenced local variable
+c:\users\mcraisins\source\repos\cs6323_project\Object.h(81): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mcraisins\source\repos\cs6323_project\Object.h(175): warning C4305: 'argument': truncation from 'int' to 'float'
+Renderer.cpp(243): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Renderer.cpp(291): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+Renderer.cpp(301): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+Renderer.cpp(306): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+Renderer.cpp(313): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  2 of 2295 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewDeleteBuffers imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewLinkProgram imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewDeleteShader imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewGenBuffers imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewGetProgramInfoLog imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewDetachShader imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewUniformMatrix4fv imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewBlendEquationSeparate imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewGenVertexArrays imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewBlendEquation imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewShaderSource imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewDeleteProgram imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewActiveTexture imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewAttachShader imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewBufferData imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewGetUniformLocation imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewBlendFuncSeparate imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewDeleteVertexArrays imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewGetProgramiv imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewGetShaderInfoLog imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewUniform1i imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewCreateProgram imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewBindBuffer imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewCreateShader imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewGetAttribLocation imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewCompileShader imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewGetShaderiv imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewDrawElementsBaseVertex imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewVertexAttribPointer imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewUseProgram imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewBindSampler imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewBindVertexArray imported
+imgui_impl_opengl3.obj : warning LNK4049: locally defined symbol __glewEnableVertexAttribArray imported
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Mcraisins\source\repos\CS6323_Project\x64\Release\vc120.pdb'; linking object as if no debug info
+  CS6323_Project.vcxproj -> C:\Users\Mcraisins\source\repos\CS6323_Project\x64\Release\CS6323_Project.exe
